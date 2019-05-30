@@ -1,15 +1,15 @@
-## Macedonian stickers
+# Macedonian stickers
 
 TODO
 
-### About
+## About
 
 TODO
 
-### Privacy policy
+## Privacy policy
 
 [read the privacy policy](https://minimoog.github.io/mkd_stickers/privacypolicy)
 
-### Contact support 
+## Contact support 
 
 [contact support](mailto:minimoog77@gmail.com) and we’ll help you sort it out.

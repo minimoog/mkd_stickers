@@ -8,7 +8,7 @@ TODO
 
 ### Privacy policy
 
-TODO
+[read the privacy policy](https://minimoog.github.io/mkd_stickers/privacypolicy)
 
 ### Contact support 
 
